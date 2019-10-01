@@ -5,3 +5,6 @@ Ricardo Golac
 Krishan Patel
 
 Aleksei "Sandro" Witty
+
+
+Emily Bauer
