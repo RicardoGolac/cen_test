@@ -4,3 +4,6 @@ Ricardo Golac
 
 
 Aleksei "Sandro" Witty (MVP)
+
+
+Emily Bauer
